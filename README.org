@@ -5,6 +5,6 @@ Common Lisp tool to compile documentation pages using an HTML template.
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/Shinmera/staple.git |
-| commit  | 89d49b2                                    |
+| commit  | 65beefe                                    |
 | systems | staple                                     |
 |---------+--------------------------------------------|
