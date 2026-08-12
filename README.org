@@ -8,4 +8,4 @@ Common Lisp tool to compile documentation pages using an HTML template.
 | commit  | 6c1ff50                                                                                                                   |
 | systems | staple staple-markdown staple-markless staple-package-recording staple-restructured-text staple-code-parser staple-server |
 |---------+---------------------------------------------------------------------------------------------------------------------------|
-|
+| 
